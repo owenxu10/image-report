@@ -18,7 +18,8 @@ export default {
 </script>
 <style scoped>
 .header {
-    width: 100%;box-shadow: black 0 -1px 3px;
+    width: 100%;
+    box-shadow: black 0 -1px 3px;
     height:80px;
     margin-bottom:20px;
 }
